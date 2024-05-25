@@ -1,2 +1,2 @@
 # alumni
-Repositório referente a rede Alumni da Universidade Católica de Santos
+Repositório referente aos diagramas da rede Alumni da Universidade Católica de Santos
